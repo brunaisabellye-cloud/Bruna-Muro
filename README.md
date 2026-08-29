@@ -1,8 +1,16 @@
-<h1 align="center">Hi! I'm Bruna 👋</h1>
-<p align="center">
-  Information Systems Student
-</p>
-<p align="center"> 💻 Aspiring Developer &nbsp; | &nbsp; 📚 Information Systems Student &nbsp; | &nbsp; 🚀 Always learning </p> 
+<div align="center">
+
+# Hi! I'm Bruna 👋
+
+### Information Systems Student & QA Intern
+
+💻 Aspiring Developer &nbsp; • &nbsp; 🔍 Quality Assurance &nbsp; • &nbsp; 🚀 Always Learning
+
+</div>
+
+<table align="center">
+<tr>
+<td width="700">
 
 ### 👩🏻‍💻 About Me
 
@@ -12,12 +20,21 @@ I'm currently exploring different programming languages and building projects to
 
 I believe that every project is an opportunity to learn something new. ✨
 
-### 📚 Currently Learning
+</td>
+</tr>
+</table>
+---
 
-💻 Technologies & Tools
-
-### 💻 Technologies & Tools
+<h3 align="center">📚 Currently Learning</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,html,css" />
+  <img src="https://skillicons.dev/icons?i=python,c,html,css,linux" />
+</p>
+
+<p align="center">
+  Python • C • HTML • CSS • Linux
+</p>
+
+<p align="center">
+  Python &nbsp; • &nbsp; C &nbsp; • &nbsp; HTML &nbsp; • &nbsp; CSS &nbsp; • &nbsp; Linux
 </p>
