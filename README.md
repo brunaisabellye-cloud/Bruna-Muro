@@ -32,9 +32,5 @@ I believe that every project is an opportunity to learn something new. ✨
 </p>
 
 <p align="center">
-  Python • C • HTML • CSS • Linux
-</p>
-
-<p align="center">
   Python &nbsp; • &nbsp; C &nbsp; • &nbsp; HTML &nbsp; • &nbsp; CSS &nbsp; • &nbsp; Linux
 </p>
