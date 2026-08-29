@@ -12,6 +12,12 @@ I'm currently exploring different programming languages and building projects to
 
 I believe that every project is an opportunity to learn something new. ✨
 
+### 📚 Currently Learning
+
 💻 Technologies & Tools
 
-<p align="center"> <img src="https://skillicons.dev/icons?i=python,c,java,html,css,git,github,vscode,linux" /> </p>
+### 💻 Technologies & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,c,html,css" />
+</p>
